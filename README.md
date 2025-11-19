@@ -17,7 +17,7 @@ MediScan AI is a web application designed to assist medical professionals in det
 
 1. Clone the repository:
 ```sh
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/basarsy/medAI.git>
 cd mediview-ai-detect
 ```
 
